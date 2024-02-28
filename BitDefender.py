@@ -18,7 +18,7 @@ while True:
     choix = input("Votre choix : ")
 
     if choix == "1":
-        computer_name = input("Entrez le nom de l'ordinateur : ")
+        computer_name = input("Entrez l'ID du PC : ")
 
         request = {
             "params": {
@@ -42,7 +42,7 @@ while True:
 
 
     elif choix == "2":
-            computer_name_agent = input("Entrez le nom de l'ordinateur : ")
+            computer_name_agent = input("Entrez l'ID du PC : ")
 
             request = {
                 "params": {
