@@ -5,7 +5,7 @@ Configuration
 Remplacez la variable apiKey dans le fichier script.py par votre propre clé API Bitdefender GravityZone.
 
 Utilisation
-Exécutez le script script.py et suivez les instructions pour utiliser le menu interactif.
+Exécutez le script BitDefender.py et suivez les instructions pour utiliser le menu interactif.
 
 Avertissement
 Ce script utilise des requêtes HTTP non sécurisées (verify=False) pour simplifier la démonstration. Pour une utilisation en production, assurez-vous de sécuriser vos communications.
